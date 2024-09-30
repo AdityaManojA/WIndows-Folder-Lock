@@ -1,0 +1,1 @@
+What command is used to create a new directory in Linux?

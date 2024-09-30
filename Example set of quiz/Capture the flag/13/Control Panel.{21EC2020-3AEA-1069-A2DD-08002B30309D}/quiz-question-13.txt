@@ -1,0 +1,1 @@
+Which database indexing technique is used to quickly locate data without scanning entire tables?

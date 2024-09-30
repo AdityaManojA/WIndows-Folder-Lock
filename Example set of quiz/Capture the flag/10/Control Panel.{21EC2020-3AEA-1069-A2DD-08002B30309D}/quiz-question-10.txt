@@ -1,0 +1,1 @@
+Which protocol is vulnerable to a man-in-the-middle attack due to lack of encryption?
